@@ -196,7 +196,3 @@ The following are the requested milestones for a development history. They are a
 | 8 | Added README documentation |
 
 Initialize Git inside this project folder when preparing your submission, especially if a parent folder already belongs to another repository. The `.gitignore` excludes compiled output and local IDE files. Commit the Java sources, tests, README, and demo script. Follow your course's rules for acknowledging assistance.
-
-## Video demonstration
-
-Use [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for an approximately 8-9 minute narration, exact menu inputs, and screen actions covering all eight video requirements. Replace the personal and repository placeholders and rehearse once before recording.
